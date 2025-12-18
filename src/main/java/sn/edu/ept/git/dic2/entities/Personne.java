@@ -1,4 +1,4 @@
-package sn.edu.ugb.ipsl.tic.ing2.entities;
+package sn.edu.ept.git.dic2.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

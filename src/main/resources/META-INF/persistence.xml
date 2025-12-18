@@ -10,7 +10,7 @@
 
         <!-- Automatically scan for @Entity classes -->
         <!--exclude-unlisted-classes>false</exclude-unlisted-classes-->
-        <class>sn.edu.ugb.ipsl.tic.ing2.entities.Personne</class>
+        <class>sn.edu.ept.git.dic2.entities.Personne</class>
 
         <properties>
             <!-- JDBC -->

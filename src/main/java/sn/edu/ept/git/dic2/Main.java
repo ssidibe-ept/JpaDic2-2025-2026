@@ -1,9 +1,9 @@
-package sn.edu.ugb.ipsl.tic.ing2;
+package sn.edu.ept.git.dic2;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.Persistence;
-import sn.edu.ugb.ipsl.tic.ing2.entities.Personne;
+import sn.edu.ept.git.dic2.entities.Personne;
 
 import java.time.LocalDate;
 
