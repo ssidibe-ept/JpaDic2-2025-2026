@@ -9,8 +9,7 @@
         <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
 
         <!-- Automatically scan for @Entity classes -->
-        <!--exclude-unlisted-classes>false</exclude-unlisted-classes-->
-        <class>sn.edu.ept.git.dic2.entities.Personne</class>
+        <exclude-unlisted-classes>false</exclude-unlisted-classes>
 
         <properties>
             <!-- JDBC -->
